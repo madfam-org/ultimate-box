@@ -191,3 +191,14 @@ Export the part with key F7 and save it as STL-file.
 
 
 
+
+## License & attribution
+
+This project vendors the **Advanced Ultimate Box Maker** (https://www.thingiverse.com/thing:4947863), which descends from:
+
+* **Ultimate Box Maker** — original design by FB Aka Heartman/Hearty, https://www.thingiverse.com/thing:1264391 and http://heartygfx.blogspot.com — **CC BY-NC 3.0**
+* **Customizable revised Ultimate Box Maker** — improvements by jbebel, https://github.com/jbebel/Ultimate-Box-Maker
+
+Per the upstream authors, the programs are licensed under the **Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)** license (see [LICENSE](./LICENSE)). This repository — including the Yantra4D wrapper files — is distributed as a whole under CC BY-NC 3.0.
+
+Non-commercial community pack — excluded from any paid MADFAM/Yantra4D catalog per RFC 0024 P1.1.
