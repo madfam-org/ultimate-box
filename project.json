@@ -14,7 +14,13 @@
       "box",
       "case"
     ],
-    "difficulty": "intermediate"
+    "difficulty": "intermediate",
+    "commons_license": "CC-BY-NC-3.0",
+    "attribution": {
+      "author": "FB Aka Heartman/Hearty (original); jbebel (revised); Advanced Ultimate Box Maker authors",
+      "url": "https://www.thingiverse.com/thing:1264391",
+      "license": "CC-BY-NC-3.0"
+    }
   },
   "modes": [
     {
