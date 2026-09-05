@@ -1,3 +1,5 @@
+> **Archived 2026-09-04 (RFC 0038 §9 / ADR-020).** This repository is read-only. The cartridge now lives in not carried into the commons (it restored an upstream CC BY-NC 3.0 licence, incompatible with CERN-OHL-W-2.0); this archived repo keeps its full history. Open issues and pull requests there.
+
 # Advanced Ultimate-Box-Maker
 
 <img src="4-powersupply-textdemo.png" width="90%"/>
